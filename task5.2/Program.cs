@@ -19,7 +19,6 @@ while (i < n)
         }
     }
     i++;
-    Console.WriteLine(x);
 }
 Console.WriteLine(string.Join(",", array)); // вывод массива
 Console.WriteLine("Сумма четных на нечетных позициях:" + totalEven); // вывод суммы четных
